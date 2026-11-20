@@ -1,4 +1,9 @@
-## Hi there 👋
+##Hey 👋 I'm Adam, an aspiring software developer from Scotland.
+
+I'm currently learning python and figuring out github as I go 😎
+
+Endorsements:-
+"Adam is a great classmate. He is hardworking and always willing to help others or to ask questions himself. I'd recommend working alongside him 😊👍" -  [Sulayman Sarr](https://github.com/Balaenys), fellow student at WCS Paisley
 
 <!--
 **Use-ful/Use-ful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
