@@ -1,4 +1,4 @@
-##Hey 👋 I'm Adam, an aspiring software developer from Scotland.
+Hey 👋 I'm Adam, an aspiring software developer from Scotland.
 
 I'm currently learning python and figuring out github as I go 😎
 
